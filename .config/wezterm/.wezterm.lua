@@ -25,7 +25,7 @@ config.initial_rows = 28
 
 -- or, changing the font size and color scheme.
 config.font_size = 10
-config.color_scheme = "Gruvbox dark, medium (base16)"
+config.color_scheme = "Tokyo Night"
 
 config.window_frame = {
 	-- The font used in the tab bar.
