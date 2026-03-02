@@ -114,7 +114,7 @@ config.text_background_opacity = 0.5
 config.font = wezterm.font("Fira Code")
 -- You can specify some parameters to influence the font selection;
 -- for example, this selects a Bold, Italic font variant.
-config.font = wezterm.font("JetBrains Mono", { weight = "Bold", italic = true })
+config.font = wezterm.font("JetBrains Mono", { weight = "Bold", italic = false })
 
 -- Key Binding
 
